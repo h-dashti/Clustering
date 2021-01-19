@@ -93,6 +93,7 @@ class HK2d :
                    ):
         '''
         Labeling the clusters in occupied array.
+        The site array has the same shape as occuiped array.
         The pbc_axes is periodic boundary conditons along x and y axes.
         '''
 
